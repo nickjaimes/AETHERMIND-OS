@@ -2,13 +2,6 @@
 
 AETHERMIND OS - The Quantum-Biological Fusion Operating System
 
-https://img.shields.io/badge/AETHERMIND_OS-Quantum_Fusion_OS-blueviolet
-https://img.shields.io/badge/Base-Fedora_Core_40-51a2da
-https://img.shields.io/badge/AI-Trinity_AI-E74C3C
-https://img.shields.io/badge/Vision-Eagle_Eye-3498DB
-https://img.shields.io/badge/Framework-Four_Elemental-2ECC71
-https://img.shields.io/badge/Compat-Linux_Mac_Win-FF6B6B
-https://img.shields.io/badge/Year-2025-brightgreen
 
 🚀 THE ULTIMATE FUSION OPERATING SYSTEM
 
